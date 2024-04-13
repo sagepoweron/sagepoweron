@@ -6,9 +6,6 @@
 
 💬 Check out my Appointments Management Application.
 
-> [!NOTE]
-> Solution contains both an API project and a Models, Views, Controllers (MVC) project. Uses SQLite for the database.
-
 [Repository](https://github.com/sagepoweron/AppointmentsApp)
 
 ## Unity
@@ -19,7 +16,7 @@
 - farm management game :seedling:
 
 > [!NOTE]
-> Contains images and playable demos from various stages of development.
+> Contains images and playable demos from early stages of development.
 
 [Preview Page](https://sagepoweron.github.io/unity/)
 
