@@ -2,15 +2,16 @@
 
 ### Hi there 👋
 
-## .NET
+## .NET Applications
 
-💬 Check out my Appointments Management Application.
+💬 Check out some of my applications below.
 
-[Repository](https://github.com/sagepoweron/AppointmentsApp)
+- [AppointmentsApp](https://github.com/sagepoweron/AppointmentsApp)
+- [ShopApp](https://github.com/sagepoweron/ShopApp)
 
-## Unity
+## Games
 
-🔭 I’m currently working on several Unity projects including:
+🔭 I’m currently working on several games including:
 - turn based RPG
 - multiplayer game with gridbased movement and AI
 - farm management game :seedling:
