@@ -1,9 +1,8 @@
 # Welcome!
 
-✨ Currently organizing my GitHub repositories.
-
-## Latest Project
-🔭 [Pokemon Website](https://github.com/sagepoweron/pokemon-web/)
+## Latest Projects
+[RPG Demo](https://sagepoweron.github.io/rpg-demo/)
+[Pokemon Website](https://github.com/sagepoweron/pokemon-web/)
 
 <!--
 **sagepoweron/sagepoweron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
