@@ -1,8 +1,9 @@
 # Welcome!
+I am currently updating my game demos.
 
 ## Latest Projects
-[RPG Demo](https://sagepoweron.github.io/rpg-demo/)
-[Pokemon Website](https://github.com/sagepoweron/pokemon-web/)
+- [RPG Demo](https://sagepoweron.github.io/rpg-demo/)
+- [Pokemon Website](https://github.com/sagepoweron/pokemon-web/)
 
 <!--
 **sagepoweron/sagepoweron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
