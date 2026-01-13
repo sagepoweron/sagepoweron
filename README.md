@@ -1,9 +1,8 @@
 # Welcome!
-I am currently updating my game demos.
+Check out my web apps and video game demos!
 
-## Latest Projects
-- [RPG Demo](https://sagepoweron.github.io/rpg-demo/)
-- [Pokemon Website](https://github.com/sagepoweron/pokemon-web/)
+## Latest Project
+- Team Builder with Vue
 
 <!--
 **sagepoweron/sagepoweron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
